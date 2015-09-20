@@ -1,3 +1,5 @@
+# ascribe-fuse
+Your collection in your file system!
 The code was hammered together in 1h during the [ascribe hackathon](https://hackathon.ascribe.io).
 The implementation is really bad. It's just a proof of concept far from being complete.
 
@@ -9,7 +11,7 @@ The implementation is really bad. It's just a proof of concept far from being co
 
 # Why?
 
-Because it's fun! :D
+Because it's major fun! :D
 
 
 # How to use it?
